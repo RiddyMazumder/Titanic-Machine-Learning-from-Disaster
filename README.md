@@ -1,16 +1,18 @@
 # 🚢 Titanic: Machine Learning from Disaster
 
-Predicting passenger survival on the Titanic using machine learning.
+![Titanic Banner](https://github.com/RiddyMazumder/titanic-machine-learning-from-disaster/blob/main/TITANIC-Explained-Hymn-to-the-Sea-1.webp)
 
-This project is based on the classic **Kaggle Titanic: Machine Learning from Disaster** challenge. The goal is to build a predictive model that determines whether a passenger survived the Titanic shipwreck based on available features such as age, gender, class, and fare.
+**🧑‍💻 PREDICTING PASSENGER SURVIVAL ON THE TITANIC USING MACHINE LEARNING**
+
+**⚓ THIS PROJECT IS BASED ON THE CLASSIC KAGGLE TITANIC: MACHINE LEARNING FROM DISASTER CHALLENGE. THE GOAL IS TO BUILD A PREDICTIVE MODEL THAT DETERMINES WHETHER A PASSENGER SURVIVED THE TITANIC SHIPWRECK BASED ON AVAILABLE FEATURES SUCH AS AGE, GENDER, CLASS, AND FARE. 🚢**
 
 ---
 
 ## 📌 Project Overview & 🏆 Kaggle Competition
 
-| 📌 **Project Overview**                                                                                                                                                                                                                              | 🏆 **Kaggle Competition & Score**                                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| This project predicts passenger survival on the Titanic using an end-to-end machine learning workflow, including EDA, preprocessing, feature engineering, model training, and evaluation. It is designed to be beginner-friendly and easy to follow. | **Titanic – Machine Learning from Disaster** <br> 🔗 [Competition Link](https://www.kaggle.com/competitions/titanic) <br> **Public Score:** *Add your score here (e.g., 0.78)* |
+| 📌 **Project Overview**                                                                                                                                                                                                                                                 | 🏆 **Kaggle Competition & Score**                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📝 This project predicts passenger survival on the Titanic using an end-to-end machine learning workflow, including 📊 EDA, 🧹 preprocessing, 🛠️ feature engineering, 🤖 model training, and 💾 evaluation. It is designed to be beginner-friendly and easy to follow. | 🚀 **Titanic – Machine Learning from Disaster** <br> 🔗 [Competition Link](https://www.kaggle.com/competitions/titanic) <br> **Public Score:** *Add your score here (e.g., 0.78)* |
 
 ---
 
@@ -18,11 +20,11 @@ This project is built for the official Kaggle competition and follows a complete
 
 This repository contains a complete, step-by-step machine learning workflow implemented in a **Jupyter Notebook**, including:
 
-* Exploratory Data Analysis (EDA)
-* Data cleaning and preprocessing
-* Feature engineering
-* Model training and evaluation
-* Saving the trained model for future use
+* 📊 Exploratory Data Analysis (EDA)
+* 🧹 Data cleaning and preprocessing
+* 🛠️ Feature engineering
+* 🤖 Model training and evaluation
+* 💾 Saving the trained model for future use
 
 The project is beginner-friendly and suitable for anyone learning data science or machine learning with Python.
 
@@ -32,12 +34,12 @@ The project is beginner-friendly and suitable for anyone learning data science o
 
 To run the notebook successfully, make sure you have the following Python libraries installed:
 
-* `pandas`
-* `numpy`
-* `scikit-learn`
-* `matplotlib`
-* `seaborn`
-* `plotly`
+* 🐼 `pandas`
+* 🔢 `numpy`
+* 🧠 `scikit-learn`
+* 📈 `matplotlib`
+* 🎨 `seaborn`
+* 🌐 `plotly`
 
 ### 🔧 Installation
 
@@ -90,26 +92,26 @@ Run the cells step by step to reproduce the analysis and model predictions.
 ## 📁 Project Structure
 
 ```
-├── Titanic_Machine_Learning.ipynb
-├── titanic_dataset/
+├── 📝 Titanic_Machine_Learning.ipynb
+├── 📂 titanic_dataset/
 │   ├── train.csv
 │   └── test.csv
-├── titanic_model.pkl
-├── README.md
+├── 💾 titanic_model.pkl
+├── 📄 README.md
 ```
 
-* **titanic_dataset/** – Contains the training and test datasets
-* **Titanic_Machine_Learning.ipynb** – Main notebook with full analysis and modeling
-* **titanic_model.pkl** – Saved trained model for reuse
+* **📂 titanic_dataset/** – Contains the training and test datasets
+* **📝 Titanic_Machine_Learning.ipynb** – Main notebook with full analysis and modeling
+* **💾 titanic_model.pkl** – Saved trained model for reuse
 
 ---
 
 ## 📈 Key Features
 
-* Clean and well-documented notebook
-* Visual data exploration using Matplotlib, Seaborn, and Plotly
-* Machine learning model training and evaluation
-* Reusable saved model (`.pkl` file)
+* 📝 Clean and well-documented notebook
+* 📊 Visual data exploration using Matplotlib, Seaborn, and Plotly
+* 🤖 Machine learning model training and evaluation
+* 💾 Reusable saved model (`.pkl` file)
 
 Feel free to experiment with different models, features, or hyperparameters to improve performance.
 
@@ -127,8 +129,8 @@ You are free to use, modify, and distribute this project for educational and per
 
 If you have any questions, suggestions, or improvements:
 
-* Open an issue
-* Submit a pull request
+* 🐞 Open an issue
+* 📤 Submit a pull request
 
 Contributions are always welcome! 😊
 
