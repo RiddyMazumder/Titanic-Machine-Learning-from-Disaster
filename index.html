@@ -1,86 +1,88 @@
-<!DOCTYPE html>
+<!doctype html>
+
 <html lang="en">
+
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Titanic Machine Learning Python Project</title>
-  <meta name="description" content="Kaggle Titanic Machine Learning project in Python. Includes dataset, notebook, and Python scripts.">
-  <meta name="keywords" content="titanic, machine learning, python, kaggle, dataset, data science">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    a {
-      color: #1a73e8;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style-type: square;
-      margin-left: 20px;
-    }
-    .files a {
-      display: block;
-      margin: 5px 0;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-  </style>
+    <meta charset="utf-8">
+    <meta name="description" value="">
+    <meta name="keywords" value="">
+    <title>Titanic: Machine Learning from Disaster - Kasey Cox</title>
+
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #616161;
+            border: 1px solid #212121;
+            position: fixed;
+            top: 2px;
+            width: 99%;}
+
+        ul a:hover {
+            background-color: #212121;}
+
+        li {
+            float: left;}
+
+        li a {
+            display: block;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;}
+
+        #main_p {
+            margin-top: 60px;
+            margin-left: 10px;
+            color: hotpink;}
+
+        p {margin-left: 10px;}
+    </style>
 </head>
+
+
 <body>
-
-  <h1>Titanic Machine Learning Python Project</h1>
-  <p>This is a Kaggle Titanic survival prediction project using Python. 
-  The project includes data cleaning, visualization, feature engineering, model training, and evaluation.</p>
-
-  <div class="section">
-    <h2>Files Available</h2>
-    <div class="files">
-      <a href="README.md" target="_blank">📄 README.md</a>
-      <a href="titanic-solution.ipynb" target="_blank">📓 Notebook: titanic-solution.ipynb</a>
-      <a href="titanic-solution.py" target="_blank">🐍 Python Script: titanic-solution.py</a>
-      <a href="titanic_dataset.csv" target="_blank">📊 Dataset: titanic_dataset.csv</a>
-    </div>
-  </div>
-
-  <div class="section">
-    <h2>Project Overview</h2>
     <ul>
-      <li>Data Cleaning & Exploration</li>
-      <li>Data Visualization</li>
-      <li>Feature Engineering</li>
-      <li>Machine Learning Model Training</li>
-      <li>Model Evaluation</li>
-      <li>Kaggle Submission</li>
+        <li><a href="https://github.com/kacox/titanicml">Home</a></li>
+        <li><a href="Titanic_investigate.html">Investigate a Dataset</a></li>
+        <li><a href="Titanic_ML.html">Machine Learning Addendum</a></li>
     </ul>
-  </div>
 
-  <div class="section">
-    <h2>Technologies Used</h2>
-    <ul>
-      <li>Python</li>
-      <li>Pandas</li>
-      <li>NumPy</li>
-      <li>Matplotlib</li>
-      <li>Scikit-learn</li>
-    </ul>
-  </div>
-
-  <footer>
-    <p>Hosted on <a href="https://github.com/username/titanic-machine-learning-python" target="_blank">GitHub</a></p>
-  </footer>
-
+    <p id="main_p">
+        <h2>
+        Repository for Titanic: Machine Learning from Disaster
+        </h2>
+        <p>
+        This project is an analysis of and deployment of a machine learning 
+        algorithm on the Titanic Dataset from Kaggle.com. 
+        <p>
+        <b>Part 1: <a href="Titanic_investigate.html">Investigate a Dataset</a></b>
+        <br>
+        The dataset ("titanic_data.csv") contains information for 891 
+        passengers with 12 variables. The goal of this investigation was 
+        to determine if any variables correlate with passenger survival.
+        <p>
+        <u>Tools/technologies:</u> Python, NumPy, Pandas, Seaborn
+        <p>
+        <b>Part 2: <a href="Titanic_ML.html">Machine Learning Addendum</a></b>
+        <br>
+        For this part of the project, a machine learning algorithm is  
+        developed and deployed to predict which passengers survived the 
+        sinking of the Titanic. Part 1 (finding which passenger 
+        characteristics correlate with survival) serves as a basis for feature 
+        selection in this addendum.
+        <p>
+        Two sets of data are used: "train.csv" and "test.csv". "train.csv" 
+        has 891 data points and 12 variables while "test.csv" has 418 data 
+        points and 11 variables.
+        <p>
+        <u>Tools/technologies:</u> Python, NumPy, Pandas, scikit-learn
+    </p>
 </body>
+
+
 </html>
