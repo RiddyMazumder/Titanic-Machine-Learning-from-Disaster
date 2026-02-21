@@ -1,6 +1,6 @@
 # 🚢 Titanic: Machine Learning from Disaster
 
-![Titanic Banner](https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/raw/refs/heads/main/.github/from-Learning-Disaster-Titanic-Machine-antecedence.zip)
+![Titanic Banner](https://github.com/RiddyMazumder/Titanic-Machine-Learning-from-Disaster/blob/main/TITANIC-Explained-Hymn-to-the-Sea-1.webp)
 
 **🧑‍💻 PREDICTING PASSENGER SURVIVAL ON THE TITANIC USING MACHINE LEARNING**
 
